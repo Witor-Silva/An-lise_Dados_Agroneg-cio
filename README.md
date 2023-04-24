@@ -1,6 +1,6 @@
 
 
-A análise abaixo foi feita utilizando dados públicos que foram disponibilizados no site www.kaggle.com.
+A análise foi feita utilizando dados públicos que foram disponibilizados no site www.kaggle.com.
 
 A motivação para essa análise é entender o gerenciamento do setor Agropecuário brasileiro. Isso pode ser importante para prevenir perdas, diminuir custos operacionais e melhorar a capacidade de produção, o que, consequentemente, deve aumentar a produtividade do setor.
 
